@@ -1,0 +1,78 @@
+
+body{
+    background-image: url(./Imagenes/Imagenes-varias/barra\ principal.jpg);
+
+}
+
+.volver{
+    font-size: 25px;
+    padding: 6px;
+    text-decoration: none;
+    color: black;
+    background-color: grey;
+}
+
+.back{
+    position: relative;
+    top: 5px;
+}
+
+.titulo-convenios{
+    color: darkgrey;
+    font-size: 40px;
+    text-align: center;
+    font-family: initial;
+}
+
+.titulo1{
+    color: darkgrey;
+    font-size: 30px;
+    text-align: center;
+    font-family: initial;
+}
+
+.texto1{
+    color: beige;
+    font-size: 25px;
+    text-align: center;
+}
+
+.principales-convenios{
+    background-color: rgba(250, 235, 215, 0.223);
+}
+
+.revision{
+    font-family: fantasy;
+    text-decoration: none;
+    color: black;
+}
+
+.titulo2{
+    color: beige;
+    font-size: 30px;
+    text-align: center;
+    font-family: initial;
+}
+
+.texto2{
+    color: darkgrey;
+    font-size: 25px;
+}
+
+.link-conv{
+    font-family: fantasy;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.final{
+    color: beige;
+    text-align: center;
+    font-size: 50px;
+    font-family: initial;
+}
+
+.cierre{
+    background-image: url(./Imagenes/Imagenes-varias/barra\ principal.jpg);
+}
